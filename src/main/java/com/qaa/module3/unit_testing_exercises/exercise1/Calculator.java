@@ -2,6 +2,7 @@ package com.qaa.module3.unit_testing_exercises.exercise1;
 
 public class Calculator {
 
+	//Comment 1
 	public double add(double num1, double num2) {
 		return num1 + num2;
 	}
